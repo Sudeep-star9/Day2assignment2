@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+
+}
+.assignment{
+    background-color: black;
+    width: 1366px;
+    height: 625px;
+}
+.assignment1{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    margin-left: 1216px;
+}
+.assignment2{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-left: 1066px;
+}
+.assignment3{
+    background-color:green;
+    width: 150px;
+    height: 150px;
+    margin-left: 916px;
+}
+.assignment4{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 766px;
+}
